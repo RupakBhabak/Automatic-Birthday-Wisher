@@ -1,0 +1,10 @@
+Structure of 'person'
+------------------------------------------
+name : Text not NULL
+relation : Text | NULL
+use_name_only : boolean
+use_relation_only : boolean
+pronouns : Text | NULL -> 'father' | 'mother' | 'friend_b' | 'friend_g' | 'aunt' | 'uncle'
+birth_day : Number not NULL
+birth_month : Number not NULL
+phone_number : Number not NULL
