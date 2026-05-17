@@ -1,0 +1,29 @@
+{
+    "ids": ["1", "2", "3"],
+    "persons": {
+        "1": {
+            "name": "Name of the person",
+            "relation": "Relationship with the person",
+            "pronouns": "Pronouns of that person",
+            "birth_day": 1,
+            "birth_month": 10,
+            "phone_number": "+911234567890"
+        },
+        "2": {
+            "name": "Name of the person",
+            "relation": "Relationship with the person",
+            "pronouns": "Pronouns of that person",
+            "birth_day": 2,
+            "birth_month": 10,
+            "phone_number": "+911234567890"
+        },
+        "3": {
+            "name": "Name of the person",
+            "relation": "Relationship with the person",
+            "pronouns": "Pronouns of that person",
+            "birth_day": 3,
+            "birth_month": 10,
+            "phone_number": "+911234567890"
+        }
+    }
+}
