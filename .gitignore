@@ -1,3 +1,4 @@
 .env
 test
 db/persons.json
+db/completed_tasks.json
